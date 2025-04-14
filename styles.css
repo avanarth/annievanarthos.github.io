@@ -1,0 +1,34 @@
+body{
+   background-color: palevioletred
+}
+h1{
+   color:blue
+}
+h3{ 
+               text-align: left;
+            color: aqua;
+}
+    p {
+  text-align: left;
+
+  color: forestgreen;
+         font-family: 'monospace'
+            
+} 
+table, th {
+  border: 5px solid;
+border-color:rebeccapurple
+}
+#paraCopy {
+   text-align: right
+      
+}
+p.left {
+   font-style: italic;
+}
+ul{
+   color:purple
+}
+ol{
+   color: yellow
+}
